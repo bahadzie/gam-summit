@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Epiverce Trace Summit"
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - section: "Commitees"
+        contents:
+          - text: LOC
+            href:
+          - text: TPC
+            href:
+          - text: LC
+            href:
+          - text: TC
+            href:
+      - text: "Pre-summit Training"
+        href: pre-training.qmd
+      - text: "Information"
+        href: information.qmd
+      - text: "Schedule/Program"
+      - text: "Contact"
+        href: contact.qmd
+      - text: "About"
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
