@@ -4,7 +4,7 @@ project:
 website:
   title: "Epiverce Trace Summit"
   sidebar:
-    style: "floating"
+    style: "docked"
     search: true
     contents:
       - text: "Home"
@@ -12,7 +12,7 @@ website:
       - section: "Commitees"
         contents:
           - text: LOC
-            href:
+            href: loc.qmd
           - text: TPC
             href:
           - text: LC
@@ -24,6 +24,7 @@ website:
       - text: "Information"
         href: information.qmd
       - text: "Schedule/Program"
+        href: schedule.qmd
       - text: "Contact"
         href: contact.qmd
       - text: "About"

@@ -1,11 +1,6 @@
----
-title: "gam-summit"
----
+# Epiverse-TRACE Summit 2024: Strenthening equitable and inclusive tools for epidemic preparedness
 
-# Epiverse Trace Summit:
-
-![](images/clipboard-2051153875.png)
-
+![](images/clipboard-2051153875.png){fig-align="center" width="676"}
 
 ## TRACE Annual Summit!
 
