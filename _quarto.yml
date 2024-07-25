@@ -9,16 +9,12 @@ website:
     right:
         - text: "Home"
           href: index.qmd
-        - text: "Commitees"
-          href: committees.qmd
+        - text: "Agenda"
+          href: schedule.qmd
         - text: "Pre-summit Training"
           href: pre-training.qmd
-        - text: "Trave Information"
+        - text: "Travelling to The Gambia"
           href: information.qmd
-        - text: "Schedule/Program"
-          href: schedule.qmd
-        - text: "Contact"
-          href: contact.qmd
 
 
 
