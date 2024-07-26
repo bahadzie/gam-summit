@@ -24,9 +24,12 @@ website:
   page-footer:
     border: true
     background: light
-    left:
-        - text: "Contacts"
-          href: contact.qmd
+    left: "Partner:"
+    center:
+      - icon: ukri
+        href: https://www.ukri.org/who-we-are/
+      - icon: twitter
+        href: https://twitter.com/
 
 
 
