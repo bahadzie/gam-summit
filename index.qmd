@@ -1,10 +1,16 @@
-# Epiverse-TRACE Summit 2024: Strenthening equitable and inclusive tools for epidemic preparedness
+# Strenthening equitable and inclusive tools for epidemic preparedness
 
+<<<<<<< HEAD
 ![](images/clipboard-2051153875.png){fig-align="center" width="663"}
+=======
+The [WHO]() and regional organisations are supporting the development and use of analytics tools for epidemics preparedness and response. Powered by [Data.org](), the [Epiverse-TRACE]() project has made a substantial progress towards producing analytics tools aimed at addressing the most critical questions during an epidemics. 
+
+![](./images/MRCG_Trace_Team.png){fig-align="center" width=100% height=20%}
+>>>>>>> c9859c71e45eb3bb5f4c9076370aeab79caa6c58
 
 ## TRACE Annual Summit!
 
-Here - we will describe what the summit is about?
+
 
 Previous summits:
 
