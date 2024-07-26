@@ -24,12 +24,40 @@ website:
   page-footer:
     border: true
     background: light
-    left: "Partner:"
-    center:
-      - icon: ukri
-        href: https://www.ukri.org/who-we-are/
-      - icon: twitter
-        href: https://twitter.com/
+    center: |
+      [![](./images/UKRI_MRCG_LSHTM_logo.png){fig-alt="MRCG" width=65px}](https://www.lshtm.ac.uk/research/units/mrc-gambia)
+      [![](./images/LogoDataDotOrg.png){fig-alt="datadotorg" width=65px}](https://data.org/a)
+      [![](./images/logo-andes.png){fig-alt="uniandes" width=65px}](https://uniandes.edu.co/)
+      [![](./images/Javeriana.png){fig-alt="javeriana" width=65px}](https://javeriana.edu.co/)
+    # center:
+    #   - text: "About"
+    #     href: about.qmd
+    #   - text: "FAQ"
+    #     href: docs/faq/index.qmd
+    #   - text: "License"
+    #     href: license.qmd
+    #   - text: "Trademark"
+    #     href: trademark.qmd
+    # right:
+    #   - icon: twitter
+    #     href: https://twitter.com/quarto_pub
+    #     aria-label: Quarto Twitter
+    #   - icon: github
+    #     href: https://github.com/quarto-dev/quarto-cli
+    #     aria-label: Quarto GitHub
+    #   - icon: rss
+    #     href: https://quarto.org/docs/blog/index.xml
+    #     aria-label: Quarto Blog RSS
+
+  # page-footer:
+  #   border: true
+  #   background: light
+  #   left: "Partner:"
+  #   center:
+  #     - icon: ukri
+  #       href: https://www.ukri.org/who-we-are/
+  #     - icon: twitter
+  #       href: https://twitter.com/
 
 
 
