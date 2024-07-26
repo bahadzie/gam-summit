@@ -1,8 +1,8 @@
 ---
-title: "Summit progam"
+title: "Summit Agenda"
 ---
 
-
+## Summit agenda 
 
 ```{r}
 #| echo: false
@@ -21,13 +21,11 @@ kableExtra::kbl() |>
   kableExtra::kable_paper("striped", font_size = 18, full_width = TRUE) |>
   kableExtra::column_spec(c(3, 5), color = 'white', background = 'black') |>
   kableExtra::row_spec(1:nrow(agenda), extra_css = "padding: 30px") |>
-  kableExtra::row_spec(3, color = 'white', background = 'orange')
-
-  # kableExtra::scroll_box(height = "200px", width = "100%",
-  #                        box_css = "border: 1px solid #ddd; padding: 5px; ",
-  #                        extra_css = NULL,
-  #                        fixed_thead = TRUE)
+  kableExtra::row_spec(3, background = 'black')
 ```
+
+
+## Daily egenda
 
 ## Sub-topics proposed in preparation meetings
 
