@@ -1,6 +1,6 @@
 # Strenthening Equitable and Inclusive Tools for Epidemic Preparedness
 
-The [WHO]() and regional organisations are supporting the development and use of analytics tools for epidemics preparedness and response. Powered by [Data.org](), the [Epiverse-TRACE]() project has made a substantial progress towards producing analytics tools aimed at addressing the most critical questions during an epidemics. 
+The [WHO]() and regional organizations are supporting the development and use of analytics tools for epidemic preparedness and response. Powered by [Data.org](), the [Epiverse-TRACE]() project has made substantial progress toward producing analytics tools aimed at addressing the most critical questions during an epidemic. 
 
 ![](./images/MRCG_Trace_Team.png){fig-align="center" width=100% height=20%}
 

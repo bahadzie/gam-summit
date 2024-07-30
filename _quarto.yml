@@ -24,10 +24,10 @@ website:
   page-footer:
     border: true
     background: light
-    left: "Partner:"
+    left: "Partners:"
     center:
-      - icon: ukri
-        href: https://www.ukri.org/who-we-are/
+      - icon: github
+        href: https://github.com/
       - icon: twitter
         href: https://twitter.com/
 
