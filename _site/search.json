@@ -4,7 +4,11 @@
     "href": "index.html",
     "title": "Strenthening Equitable and Inclusive Tools for Epidemic Preparedness",
     "section": "",
-    "text": "The WHO and regional organisations are supporting the development and use of analytics tools for epidemics preparedness and response. Powered by Data.org, the Epiverse-TRACE project has made a substantial progress towards producing analytics tools aimed at addressing the most critical questions during an epidemics.\n\n\n\n\n\n\n\nPrevious summits:\nLondon\nColombia\n\n\n\nStrenthening equitable and inclusive tools for epidemic preparedness"
+<<<<<<< HEAD
+    "text": "The WHO and regional organisations are supporting the development and use of analytics tools for epidemics preparedness and response. Powered by Data.org, the Epiverse-TRACE project has made a substantial progress towards producing analytics tools aimed at addressing the most critical questions during an epidemics. Current, up to XXX Epiverse-TRACE packages are on CRAN. While YYY are under active development, this reflects the results of two years of joint efforts between members of the team and our communities of users.\nThese tools are developed across three institutions (LSHTM, MRCG, UniAndes, Javeriana) that are spread across three countries (The UK, The Gambia, and Colombia), and located in three Continents. Given the spread and the wide diversity of the team, it was decided, for a smooth integration and collaboration between the members, to organise a summit in one the above countries hosting the project. For a week or so, this is an opportunity to discuss the progress, evaluate the deliveries, and plan for our next moves.\nThis year, the Epiverse-TRACE annual summit will be held at the Medical Research Council, The Gambia Unit at LSHTM.\n\n\n\n\n\n\n\nOur first summit was organised in Bogota, Colombia, between 26th and 29th of June 2023. Around the theme “Collaborative Software Development Ecosystem for Public Health”, participants had the opportunity to bring their thoughts in the following topics:\n\nCollaborative Software Development,\nBuilding a community of users,\nBuilding RSE & Data Science teams,\nTRACE in the Global Perspective\n\nThe outcomes from these fruitful discussions are summarised in the report published by TRACE-LAC team in Colombia.\nLondon"
+=======
+    "text": "The WHO and regional organisations are supporting the development and use of analytics tools for epidemics preparedness and response. Powered by Data.org, the Epiverse-TRACE project has made a substantial progress towards producing analytics tools aimed at addressing the most critical questions during an epidemics. Current, up to six (06) Epiverse-TRACE packages are on CRAN. While close to twenty (20) are under active development, this reflects the results of two years of joint efforts between members of the team and our communities of users.\nThese tools are developed across three institutions (LSHTM, MRCG, UniAndes, Javeriana) that are spread across three countries (The UK, The Gambia, and Colombia), and located in three Continents. Given the spread and the wide diversity of the team, it was decided, for a smooth integration and collaboration between the members, to organise a summit in one the above countries hosting the project. For a week or so, this is an opportunity to discuss the progress, evaluate the deliveries, and plan for our next moves.\nThis year, the Epiverse-TRACE annual summit will be held at the Medical Research Council, The Gambia Unit at LSHTM. Our teams and organising committees are working for the success of the event, including the pre-summit training that will happen a week prior the summit. The training will be conducted by our team of research fellows, supported by the RSEs. Participants will learn how to use our tools within an outbreak analysis workflow.\n\n\nOur first summit was organised in Bogota, Colombia, between 26th and 29th of June 2023. Around the theme “Collaborative Software Development Ecosystem for Public Health”, participants had the opportunity to bring their thoughts in the following topics:\n\nCollaborative Software Development,\nBuilding a community of users,\nBuilding RSE & Data Science teams,\nTRACE in the Global Perspective\n\nThe outcomes from these fruitful discussions are summarised in the report published by TRACE-LAC team in Colombia.\n\nLondon"
+>>>>>>> 4ad853e (update the text in the home schedule pages)
   },
   {
     "objectID": "about.html",
@@ -72,7 +76,7 @@
   {
     "objectID": "schedule.html",
     "href": "schedule.html",
-    "title": "Summit progam",
+    "title": "Summit Agenda",
     "section": "",
     "text": "9 - 11\n11 - 11:30\n11:30 - 13:30\n13:30 - 15\n15 - 17\n\n\n\n\nMonday\nOpening ceremony and launching of phase 2\nTea break\nPhase 2 implementation planning\nlunch\nRSE session\n\n\nTuesday\nInclusivity, equity and sustainability day\nTea break\nInclusivity, equity and sustainability day\nlunch\nInclusivity, equity and sustainability day\n\n\nWednesday\n\n\n\n\n\n\n\nThursday\nDesigning outbreak analytics course\nTea break\nOne health / local outbreaks/ NTDs\nlunch\nRSE session\n\n\nFriday\nTools for surveillance\nTea break\nLessons learnt/Gaps/needs\nlunch"
   },
@@ -86,8 +90,33 @@
   {
     "objectID": "schedule.html#sub-topics-proposed-in-preparation-meetings",
     "href": "schedule.html#sub-topics-proposed-in-preparation-meetings",
-    "title": "Summit progam",
+    "title": "Summit Agenda",
     "section": "Sub-topics proposed in preparation meetings",
     "text": "Sub-topics proposed in preparation meetings\n\nSustainability:\n\nwhat will happen to the tools when the funding runs out?\nHow do we keep the project going?\n\nInclusivity:\n\nWhere do we locate the global south?\n\nBuilding collaboration:\n\nbringing a broader audience to the summit such as private sector, agencies in the region, other research groups\nEstablishing alliance with the ones who might find the project useful to them and their organisations.\n\nTraining:\n\nWhat have we learnt from the feedbacks of the training conducted by both the TRCAE-Lac and the LSHTM team?\nHow can we adapt the TRACE-Lac training materials to Africa?"
+  },
+  {
+    "objectID": "index.html#previous-summit",
+    "href": "index.html#previous-summit",
+    "title": "Strenthening Equitable and Inclusive Tools for Epidemic Preparedness",
+    "section": "",
+<<<<<<< HEAD
+    "text": "Our first summit was organised in Bogota, Colombia, between 26th and 29th of June 2023. Around the theme “Collaborative Software Development Ecosystem for Public Health”, participants had the opportunity to bring their thoughts in the following topics:\n\nCollaborative Software Development,\nBuilding a community of users,\nBuilding RSE & Data Science teams,\nTRACE in the Global Perspective\n\nThe outcomes from these fruitful discussions are summarised in the report published by TRACE-LAC team in Colombia.\nLondon"
+=======
+    "text": "Our first summit was organised in Bogota, Colombia, between 26th and 29th of June 2023. Around the theme “Collaborative Software Development Ecosystem for Public Health”, participants had the opportunity to bring their thoughts in the following topics:\n\nCollaborative Software Development,\nBuilding a community of users,\nBuilding RSE & Data Science teams,\nTRACE in the Global Perspective\n\nThe outcomes from these fruitful discussions are summarised in the report published by TRACE-LAC team in Colombia.\n\nLondon"
+  },
+  {
+    "objectID": "schedule.html#summit-agenda",
+    "href": "schedule.html#summit-agenda",
+    "title": "Summit Agenda",
+    "section": "",
+    "text": "9 - 11\n11 - 11:30\n11:30 - 13:30\n13:30 - 15\n15 - 17\n\n\n\n\nMonday\nOpening ceremony and launching of phase 2\nTea break\nPhase 2 implementation planning\nlunch\nRSE session\n\n\nTuesday\nInclusivity, equity and sustainability day\nTea break\nInclusivity, equity and sustainability day\nlunch\nInclusivity, equity and sustainability day\n\n\nWednesday\n\n\n\n\n\n\n\nThursday\nDesigning outbreak analytics course\nTea break\nOne health / local outbreaks/ NTDs\nlunch\nRSE session\n\n\nFriday\nTools for surveillance\nTea break\nLessons learnt/Gaps/needs\nlunch"
+  },
+  {
+    "objectID": "schedule.html#daily-egenda",
+    "href": "schedule.html#daily-egenda",
+    "title": "Summit Agenda",
+    "section": "Daily egenda",
+    "text": "Daily egenda"
+>>>>>>> 4ad853e (update the text in the home schedule pages)
   }
 ]
