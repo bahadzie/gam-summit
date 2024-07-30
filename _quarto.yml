@@ -24,11 +24,12 @@ website:
   page-footer:
     border: true
     background: light
+    left: "Supported by:"
     center: |
-      [![](./images/UKRI_MRCG_LSHTM_logo.png){fig-alt="MRCG" width=65px}](https://www.lshtm.ac.uk/research/units/mrc-gambia)
+      [![](./images/UKRI_MRCG_LSHTM_logo.png){fig-alt="MRCG" width=200px}](https://www.lshtm.ac.uk/research/units/mrc-gambia)
       [![](./images/LogoDataDotOrg.png){fig-alt="datadotorg" width=65px}](https://data.org/a)
-      [![](./images/logo-andes.png){fig-alt="uniandes" width=65px}](https://uniandes.edu.co/)
-      [![](./images/Javeriana.png){fig-alt="javeriana" width=65px}](https://javeriana.edu.co/)
+      [![](./images/Uniandes.png){fig-alt="uniandes" width=100px}](https://uniandes.edu.co/)
+      [![](./images/Javeriana.png){fig-alt="javeriana" width=80px}](https://javeriana.edu.co/)
     right:
       - icon: github
         href: https://github.com/epiverse-trace

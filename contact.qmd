@@ -1,8 +1,6 @@
----
-title: "contact"
----
 
-## Contact {#contact}
+
+# Contact {#contact}
 
 **Pre-summit training:**
 

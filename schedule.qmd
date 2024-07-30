@@ -1,21 +1,19 @@
----
-title: "Summit Agenda"
----
 
-## Summit agenda 
+
+## Summit Agenda 
 
 
 ```{r}
 #| echo: false
 #| 
 agenda <- data.frame(
-    "9 - 11" = c("Opening ceremony and launching of phase 2", "Inclusivity and equity section", "SMall outbreaks", "Designing outbreak analytics course", "Presentation of packages and challenges"),
+    "9 - 11" = c("Opening ceremony and launching of phase 2", "Inclusivity and equity section", "Small outbreaks", "Designing outbreak analytics course", "Presentation of packages and challenges"),
     "11 - 11:30" = rep("Tea break", 5),
     "11:30 - 13" = c("Phase 2 implementation planning", "Reflecting on lessons learned", "Gaps/needs", "One health", "Tools for surveillance"),
     "13 - 15" = rep("lunch", 5),
     "15 - 17" = c("RSE session", "RSE session", "site seeing", "RSE session", ""))
 rownames(agenda) <- c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday")
-names(agenda) <- c("9 - 11", "11 - 11:30", "11:30 - 13", "13 - 15", "15 - 17")
+names(agenda) <- c("9:00 - 11:00", "11:00 - 11:30", "11:30 - 13:00", "13:00 - 15:00", "15:00 - 17:00")
 
 agenda |>
 kableExtra::kbl() |>
@@ -26,21 +24,21 @@ kableExtra::kbl() |>
 ```
 
 
-## Daily egenda
+## Daily Agenda
 
 ## Sub-topics proposed in preparation meetings
 
 * Sustainability:
-    * what will happen to the tools when the funding runs out?
+    * What will happen to the tools when the funding runs out?
     * How do we keep the project going?
     
 * Inclusivity:
     * Where do we locate the global south?
 
 * Building collaboration:
-    * bringing a broader audience to the summit such as private sector, agencies in the region, other research groups
-    * Establishing alliance with the ones who might find the project useful to them and their organisations.
+    * Bringing a broader audience to the summit such as the private sector, agencies in the region, and other research groups
+    * Establishing alliances with the ones who might find the project useful to them and their organizations.
     
 * Training:
-    * What have we learnt from the feedbacks of the training conducted by both the TRCAE-Lac and the LSHTM team?
-    * How can we adapt the TRACE-Lac training materials to Africa?
+    * What have we learned from the training feedback conducted by both the TRACE-Lac and the LSHTM team?
+    * How can we adapt the TRACE-LAC training materials to Africa?
