@@ -2,9 +2,13 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Epiverse-TRACE Summit 2024: Strenthening equitable and inclusive tools for epidemic preparedness",
+    "title": "Strenthening Equitable and Inclusive Tools for Epidemic Preparedness",
     "section": "",
-    "text": "Here - we will describe what the summit is about?\nPrevious summits:\nLondon\nColombia\n\n\n\nStrenthening equitable and inclusive tools for epidemic preparedness"
+<<<<<<< HEAD
+    "text": "The WHO and regional organisations are supporting the development and use of analytics tools for epidemics preparedness and response. Powered by Data.org, the Epiverse-TRACE project has made a substantial progress towards producing analytics tools aimed at addressing the most critical questions during an epidemics. Current, up to XXX Epiverse-TRACE packages are on CRAN. While YYY are under active development, this reflects the results of two years of joint efforts between members of the team and our communities of users.\nThese tools are developed across three institutions (LSHTM, MRCG, UniAndes, Javeriana) that are spread across three countries (The UK, The Gambia, and Colombia), and located in three Continents. Given the spread and the wide diversity of the team, it was decided, for a smooth integration and collaboration between the members, to organise a summit in one the above countries hosting the project. For a week or so, this is an opportunity to discuss the progress, evaluate the deliveries, and plan for our next moves.\nThis year, the Epiverse-TRACE annual summit will be held at the Medical Research Council, The Gambia Unit at LSHTM.\n\n\n\n\n\n\n\nOur first summit was organised in Bogota, Colombia, between 26th and 29th of June 2023. Around the theme “Collaborative Software Development Ecosystem for Public Health”, participants had the opportunity to bring their thoughts in the following topics:\n\nCollaborative Software Development,\nBuilding a community of users,\nBuilding RSE & Data Science teams,\nTRACE in the Global Perspective\n\nThe outcomes from these fruitful discussions are summarised in the report published by TRACE-LAC team in Colombia.\nLondon"
+=======
+    "text": "The WHO and regional organisations are supporting the development and use of analytics tools for epidemics preparedness and response. Powered by Data.org, the Epiverse-TRACE project has made a substantial progress towards producing analytics tools aimed at addressing the most critical questions during an epidemics. Current, up to six (06) Epiverse-TRACE packages are on CRAN. While close to twenty (20) are under active development, this reflects the results of two years of joint efforts between members of the team and our communities of users.\nThese tools are developed across three institutions (LSHTM, MRCG, UniAndes, Javeriana) that are spread across three countries (The UK, The Gambia, and Colombia), and located in three Continents. Given the spread and the wide diversity of the team, it was decided, for a smooth integration and collaboration between the members, to organise a summit in one the above countries hosting the project. For a week or so, this is an opportunity to discuss the progress, evaluate the deliveries, and plan for our next moves.\nThis year, the Epiverse-TRACE annual summit will be held at the Medical Research Council, The Gambia Unit at LSHTM. Our teams and organising committees are working for the success of the event, including the pre-summit training that will happen a week prior the summit. The training will be conducted by our team of research fellows, supported by the RSEs. Participants will learn how to use our tools within an outbreak analysis workflow.\n\n\nOur first summit was organised in Bogota, Colombia, between 26th and 29th of June 2023. Around the theme “Collaborative Software Development Ecosystem for Public Health”, participants had the opportunity to bring their thoughts in the following topics:\n\nCollaborative Software Development,\nBuilding a community of users,\nBuilding RSE & Data Science teams,\nTRACE in the Global Perspective\n\nThe outcomes from these fruitful discussions are summarised in the report published by TRACE-LAC team in Colombia.\n\nLondon"
+>>>>>>> 4ad853e (update the text in the home schedule pages)
   },
   {
     "objectID": "about.html",
@@ -16,14 +20,14 @@
   {
     "objectID": "index.html#trace-annual-summit",
     "href": "index.html#trace-annual-summit",
-    "title": "Epiverse-TRACE Summit 2024: Strenthening equitable and inclusive tools for epidemic preparedness",
+    "title": "Strenthening Equitable and Inclusive Tools for Epidemic Preparedness",
     "section": "",
-    "text": "Here - we will describe what the summit is about?\nPrevious summits:\nLondon\nColombia"
+    "text": "Previous summits:\nLondon\nColombia"
   },
   {
     "objectID": "index.html#theme",
     "href": "index.html#theme",
-    "title": "Epiverse-TRACE Summit 2024: Strenthening equitable and inclusive tools for epidemic preparedness",
+    "title": "Strenthening Equitable and Inclusive Tools for Epidemic Preparedness",
     "section": "",
     "text": "Strenthening equitable and inclusive tools for epidemic preparedness"
   },
@@ -67,18 +71,14 @@
     "href": "loc.html",
     "title": "Local Organizing Committee (LOC)",
     "section": "",
-    "text": "Local Organizing Committees (LOC) Members\n\n\n\n\n\n\nBankole Ahadzie\nBubacarr Bah\nAbdoelnaser Degoot\nAtta Lowe\nKarim Mane\nNuredin Mohammed\nKebba Secka",
-    "crumbs": [
-      "Commitees",
-      "LOC"
-    ]
+    "text": "Local Organizing Committees (LOC) Members\n\n\n\n\n\n\nBankole Ahadzie\nBubacarr Bah\nAbdoelnaser Degoot\nAtta Lowe\nKarim Mane\nNuredin Mohammed\nKebba Secka"
   },
   {
     "objectID": "schedule.html",
     "href": "schedule.html",
-    "title": "Schedule/Progam",
+    "title": "Summit Agenda",
     "section": "",
-    "text": "9 - 11\n11 - 11:30\n11:30 - 13\n13 - 15\n15 - 17\n\n\n\n\nMonday\nOpening ceremony and launching of phase 2\nTea break\nPhase 2 implementation planning\nlunch\nRSE session\n\n\nTuesday\nInclusivity and equity section\nTea break\nReflecting on lessons learned\nlunch\nRSE session\n\n\nWednesday\nSMall outbreaks\nTea break\nGaps/needs\nlunch\nsite seeing\n\n\nThursday\nDesigning outbreak analytics course\nTea break\nOne health\nlunch\nRSE session\n\n\nFriday\nPresentation of packages and challenges\nTea break\nTools for surveillance\nlunch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n9 - 11\n11 - 11:30\n11:30 - 13\n13 - 15\n15 - 17\n\n\n\n\nMonday\nOpening ceremony and launching of Phase 2\nTea break\nPhase 2 implementation planning\nlunch\nRSE session\n\n\nTuesday\nReflecting on lessons learned\nTea break\nGaps/needs\nlunch\nRSE session\n\n\nWednesday\nNeglected tropical diseases\nTea break\nOne health\nlunch\nsite seeing\n\n\nThursday\nDesigning outbreak analytics course\nTea break\nTools for surveillance\nlunch\nQ&A between RSEs and Data.org/PIs\n\n\nFriday\nPresentation packages and challenges\nTea break\n\nlunch"
+    "text": "9 - 11\n11 - 11:30\n11:30 - 13:30\n13:30 - 15\n15 - 17\n\n\n\n\nMonday\nOpening ceremony and launching of phase 2\nTea break\nPhase 2 implementation planning\nlunch\nRSE session\n\n\nTuesday\nInclusivity, equity and sustainability day\nTea break\nInclusivity, equity and sustainability day\nlunch\nInclusivity, equity and sustainability day\n\n\nWednesday\n\n\n\n\n\n\n\nThursday\nDesigning outbreak analytics course\nTea break\nOne health / local outbreaks/ NTDs\nlunch\nRSE session\n\n\nFriday\nTools for surveillance\nTea break\nLessons learnt/Gaps/needs\nlunch"
   },
   {
     "objectID": "committees.html",
@@ -86,5 +86,37 @@
     "title": "Committees",
     "section": "",
     "text": "Local Organising Committee (LOC) Members\n\nBankole Ahadzie\nBubacarr Bah\nAbdoelnaser Degoot\nAtta Lowe\nKarim Mane\nNuredin Mohammed\nKebba Secka\n\n\n\nTechnical Program Committee (TPC) Members\n\nBankole Ahadzie, Research Software Engineer, MRCG\nBubacarr Bah, Principal Investigator, MRCG\nAbdoelnaser Degoot, Research Fellow, MRCG\nAdam Kucharski, Principal Investigator, LSHTM\nJoshua Lambert, Research Software Engineer, LSHTM\nKarim Mane, Research Software Engineer, MRCG\nMaguette Ndong, Technical Program Manager, data.org\nNuredin Mohammed, Senior Researcher, MRCG\nCarmen Tamayo, Research Fellow, LSHTM\nDiana Fajardo Pulido, Pontificia Universidad Javeriana\nNatalia Niño, Universidad de los Andes\n\n\n\nLogistics Committee (LC) Members\n\nGibril Gabidon, Project Officer, Research Support Office, MRCG\nAlannah Hogg, Admin Manager, Eipverse-TRACE, LSHTM\nAlimatou Sallah, Admin Manager, Data Science, MRCG\n\n\n\nTraining Committee (TC) Members\n\nBankole Ahadzie, Research Software Engineer, MRCG\nJames Azam, Research Software Engineer, LSHTM\nBubacarr Bah, Principal Investigator, MRCG\nAndree Valle Campos, Research Fellow, LSHTM\nAbdoelnaser Degoot, Research Fellow, MRCG\nKarim Mane, Research Software Engineer, MRCG\nNuredin Mohammed, Senior Researcher, MRCG"
+  },
+  {
+    "objectID": "schedule.html#sub-topics-proposed-in-preparation-meetings",
+    "href": "schedule.html#sub-topics-proposed-in-preparation-meetings",
+    "title": "Summit Agenda",
+    "section": "Sub-topics proposed in preparation meetings",
+    "text": "Sub-topics proposed in preparation meetings\n\nSustainability:\n\nwhat will happen to the tools when the funding runs out?\nHow do we keep the project going?\n\nInclusivity:\n\nWhere do we locate the global south?\n\nBuilding collaboration:\n\nbringing a broader audience to the summit such as private sector, agencies in the region, other research groups\nEstablishing alliance with the ones who might find the project useful to them and their organisations.\n\nTraining:\n\nWhat have we learnt from the feedbacks of the training conducted by both the TRCAE-Lac and the LSHTM team?\nHow can we adapt the TRACE-Lac training materials to Africa?"
+  },
+  {
+    "objectID": "index.html#previous-summit",
+    "href": "index.html#previous-summit",
+    "title": "Strenthening Equitable and Inclusive Tools for Epidemic Preparedness",
+    "section": "",
+<<<<<<< HEAD
+    "text": "Our first summit was organised in Bogota, Colombia, between 26th and 29th of June 2023. Around the theme “Collaborative Software Development Ecosystem for Public Health”, participants had the opportunity to bring their thoughts in the following topics:\n\nCollaborative Software Development,\nBuilding a community of users,\nBuilding RSE & Data Science teams,\nTRACE in the Global Perspective\n\nThe outcomes from these fruitful discussions are summarised in the report published by TRACE-LAC team in Colombia.\nLondon"
+=======
+    "text": "Our first summit was organised in Bogota, Colombia, between 26th and 29th of June 2023. Around the theme “Collaborative Software Development Ecosystem for Public Health”, participants had the opportunity to bring their thoughts in the following topics:\n\nCollaborative Software Development,\nBuilding a community of users,\nBuilding RSE & Data Science teams,\nTRACE in the Global Perspective\n\nThe outcomes from these fruitful discussions are summarised in the report published by TRACE-LAC team in Colombia.\n\nLondon"
+  },
+  {
+    "objectID": "schedule.html#summit-agenda",
+    "href": "schedule.html#summit-agenda",
+    "title": "Summit Agenda",
+    "section": "",
+    "text": "9 - 11\n11 - 11:30\n11:30 - 13:30\n13:30 - 15\n15 - 17\n\n\n\n\nMonday\nOpening ceremony and launching of phase 2\nTea break\nPhase 2 implementation planning\nlunch\nRSE session\n\n\nTuesday\nInclusivity, equity and sustainability day\nTea break\nInclusivity, equity and sustainability day\nlunch\nInclusivity, equity and sustainability day\n\n\nWednesday\n\n\n\n\n\n\n\nThursday\nDesigning outbreak analytics course\nTea break\nOne health / local outbreaks/ NTDs\nlunch\nRSE session\n\n\nFriday\nTools for surveillance\nTea break\nLessons learnt/Gaps/needs\nlunch"
+  },
+  {
+    "objectID": "schedule.html#daily-egenda",
+    "href": "schedule.html#daily-egenda",
+    "title": "Summit Agenda",
+    "section": "Daily egenda",
+    "text": "Daily egenda"
+>>>>>>> 4ad853e (update the text in the home schedule pages)
   }
 ]

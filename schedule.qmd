@@ -1,32 +1,40 @@
----
-title: "Schedule/Progam"
----
+## Summit Programme 
 
 ```{r}
 #| echo: false
 #| 
 agenda <- data.frame(
-    "9 - 11" = c("Opening ceremony and launching of phase 2", "Inclusivity and equity section", "SMall outbreaks", "Designing outbreak analytics course", "Presentation of packages and challenges"),
-    "11 - 11:30" = rep("Tea break", 5),
-    "11:30 - 13" = c("Phase 2 implementation planning", "Reflecting on lessons learned", "Gaps/needs", "One health", "Tools for surveillance"),
-    "13 - 15" = rep("lunch", 5),
-    "15 - 17" = c("RSE session", "RSE session", "site seeing", "RSE session", ""))
+  "9 - 11" = c("Opening ceremony and launching of phase 2", "Inclusivity, equity and sustainability day", "", "Designing outbreak analytics course", "Tools for surveillance"),
+  "11 - 11:30" = c(rep("Tea break", 2), "", rep("Tea break", 2)),
+  "11:30 - 13" = c("Phase 2 implementation planning", "Inclusivity, equity and sustainability day", "", "One health / local outbreaks/ NTDs", "Lessons learnt/Gaps/needs"),
+  "13 - 15" = c(rep("lunch", 2), "", rep("lunch", 2)),
+  "15 - 17" = c("RSE session", "Inclusivity, equity and sustainability day", "", "RSE session", ""))
 rownames(agenda) <- c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday")
-names(agenda) <- c("9 - 11", "11 - 11:30", "11:30 - 13", "13 - 15", "15 - 17")
+names(agenda) <- c("9 - 11", "11 - 11:30", "11:30 - 13:30", "13:30 - 15", "15 - 17")
 
 agenda |>
-kableExtra::kbl() |>
-  kableExtra::kable_paper("striped", font_size = 14, full_width = TRUE) #|>
-  # kableExtra::scroll_box(height = "200px", width = "100%",
-  #                        box_css = "border: 1px solid #ddd; padding: 5px; ",
-  #                        extra_css = NULL,
-  #                        fixed_thead = TRUE)
+  kableExtra::kbl() |>
+  kableExtra::kable_paper("striped", font_size = 18, full_width = TRUE) |>
+  kableExtra::column_spec(c(3, 5), color = 'white', background = 'black') |>
+  kableExtra::row_spec(1:nrow(agenda), extra_css = "padding: 30px") |>
+  kableExtra::row_spec(3, background = 'black')
 ```
 
-|           | 9 - 11                                    | 11 - 11:30 | 11:30 - 13                      | 13 - 15 | 15 - 17                           |
-|------------|------------|------------|------------|------------|------------|
-| Monday    | Opening ceremony and launching of Phase 2 | Tea break  | Phase 2 implementation planning | lunch   | RSE session                       |
-| Tuesday   | Reflecting on lessons learned             | Tea break  | Gaps/needs                      | lunch   | RSE session                       |
-| Wednesday | Neglected tropical diseases               | Tea break  | One health                      | lunch   | site seeing                       |
-| Thursday  | Designing outbreak analytics course       | Tea break  | Tools for surveillance          | lunch   | Q&A between RSEs and Data.org/PIs |
-| Friday    | Presentation packages and challenges      | Tea break  |                                 | lunch   |                                   |
+## Daily Programme
+
+## Sub-topics proposed in preparation meetings
+
+* Sustainability:
+    * What will happen to the tools when the funding runs out?
+    * How do we keep the project going?
+    
+* Inclusivity:
+    * Where do we locate the global south?
+
+* Building collaboration:
+    * Bringing a broader audience to the summit such as the private sector, agencies in the region, and other research groups
+    * Establishing alliances with the ones who might find the project useful to them and their organizations.
+    
+* Training:
+    * What have we learned from the training feedback conducted by both the TRACE-Lac and the LSHTM team?
+    * How can we adapt the TRACE-LAC training materials to Africa?

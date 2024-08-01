@@ -1,7 +1,3 @@
----
-title: "pre-training"
----
-
 ## Pre-summit Training {#pre-summit-training}
 
 **Date:** 25 to 29 November 2024
