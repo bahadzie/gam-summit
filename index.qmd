@@ -1,7 +1,6 @@
 # Strengthening Inclusive and Sustainable Tools for Epidemic Preparedness
 
-
-![](./images/MRCG_Trace_Team.jpg){fig-align="center" width=60% height=10%}
+![](./images/MRCG_Trace_Team.jpg){fig-align="center" width="60%" height="10%"}
 
 The [WHO](https://www.who.int/) and regional organizations are supporting the development and use of analytics tools for epidemic preparedness and response. Powered by [Data.org](https://data.org/), the [Epiverse-TRACE](https://data.org/initiatives/epiverse/) project has made substantial progress towards producing analytics tools aimed at addressing the most critical questions during epidemics. Current, up to **six (6)** [Epiverse-TRACE packages](https://epiverse-trace.github.io/etstats/articles/cran-statistics.html) are on [CRAN](https://cran.r-project.org/). While close to **twenty (20)** are under active development, this reflects the results of two years of joint efforts between members of the team and our communities of users.
 
@@ -15,52 +14,37 @@ This year, the Epiverse-TRACE annual summit will be held at the Medical Research
 
 ::: columns
 ::: {.column width="40%"}
-
-![](./images/lshtm-logo.png){fig-align="center" width=100% height=100%}
+![](./images/lshtm-logo.png){fig-align="center" width="100%" height="100%"}
 :::
 
 ::: {.column width="60%"}
+The first Epiverse-TRACE summit was held in London, UK, between the 12th and 14th of December 2022. The event was organised in a form of a workshop around a central question: **“What should the first 100 lines of code written during new epidemics look like?”**. Together with groups working on processing and analysis pipelines, the organisations working on the front line response and generating data looked into the challenges around building efficient and centralised analysis pipelines. The main topics included:
 
-The first Epiverse-TRACE summit was held in London, UK, between the 12th and 14th of December 2022. The event was organised in a form of a workshop around a central question: **“What should the first 100 lines of code written during new epidemics look like?”**.
-Together with groups working on processing and analysis pipelines, the organisations working on the front line response and generating data looked into the challenges around building efficient and centralised analysis pipelines. The main topics included:
-
-1. _Sharing experiences of outbreak responses_,
-2. _Identifying the challenges and questions during outbreaks_,
-3. _Building collaboration and pipelines_.
+1.  *Sharing experiences of outbreak responses*,
+2.  *Identifying the challenges and questions during outbreaks*,
+3.  *Building collaboration and pipelines*.
 
 The details of the outcomes from these three days discussions are summarised in this [blogpost](https://epiverse-trace.github.io/posts/100days-workshop/index.html).
-
 :::
 :::
 
----
+------------------------------------------------------------------------
 
 ### Collaborative Software Development Ecosystem for Public Health
 
 ::: columns
 ::: {.column width="60%"}
-
 Our second summit was organized in **Bogota, Colombia**, between the 26th and 29th of June 2023. The participants were given the opportunity to bring their thoughts on the following topics:
 
-1. _Collaborative Software Development_,
-2. _Building a community of users_,
-3. _Building RSE & Data Science teams_,
-4. _TRACE in the Global Perspective_.
+1.  *Collaborative Software Development*,
+2.  *Building a community of users*,
+3.  *Building RSE & Data Science teams*,
+4.  *TRACE in the Global Perspective*.
 
 The outcomes from these fruitful discussions are summarised in the [report](https://zenodo.org/records/10932686) published by the TRACE-LAC team in Colombia.
-
 :::
 
 ::: {.column width="40%"}
-
-![](./images/Epiverse-Trace-Summit-group-photo-1920x1080.jpg){fig-align="center" width=100% height=100%}
-
+![](./images/Epiverse-Trace-Summit-group-photo-1920x1080.jpg){fig-align="center" width="100%" height="100%"}
 :::
 :::
-
-
-
-
-
-
-

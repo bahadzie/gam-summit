@@ -1,11 +1,61 @@
-## Pre-summit Training {#pre-summit-training}
+---
+tbl-cap-location: bottom
+---
 
-**Date:** 25 to 29 November 2024
+## Outbreak analytics with R - training workshop {#pre-summit-training}
 
-**Where:** At the MRCG Bray lecture theatre (we can attach a picture of the seminar room)
+**Dates:** Monday 25 November to Friday 29 November 2024 (5 days)
 
-**Trainers:** Degoot, Andree, and RSEs
+**Times:**  9:30-12:30 and 14:00 - 17:00
 
-**Training agenda:** this can come here in a form of a table with agenda per day and time.
+**Location:** F1 seminar room in MRCG 
 
-**How to apply?** details about key days will be outlined here
+### Overview:
+This week-long in-person workshop provide a practical introduction to outbreak data analysis using R packages developed by the Epiverse-TRACE initiative..
+
+
+Fill out this [form to apply](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=09a01e121b9447dbbec65057eece25af&id=oaKtcild7U6xlPh0V3cUnuJi79dolFdJoZ1qVAcSQu9UMVNUTzdEWk9CNTJMNFZNQlM2UlQ4UDNHVi4u) for this training. Application deadline is **Friday 27th September**. Places are limited and will be given on a first come, first served basis. There is no registration fee and limited funds are available for travel and local expenses. Application data will be kept confidential and may only be published in aggregated and anonymised forms in Epiverse-TRACE outreach reports. If you have any other questions about the training, please send an email to [ndree.valle-campos@lshtm.ac.uk]() or [lshad35@lshtm.ac.uk]().
+
+
+## Workshop content
+
+### Day 1
+
+- Why use R packages for epidemic analytics?
+- How to import data into the R environment?
+- How to manipulate data in R?
+- How to perform visualization in R?
+
+### Day 2
+
+- How to clean and standardize case data?
+- How to aggregate and visualize case data?
+- How can I ensure the above tasks are performed in an efficient and reproducible way?
+
+
+### Day 3
+- How do I simulate disease spread using a mathematical model?
+- How do I investigate the effect of interventions on disease trajectories?
+- How can we simulate transmission chains based on infection characteristics?
+
+### Day 4
+
+- What are the delay distributions and what is their usage on outbreak analytics?
+- How to access delay distributions from a literature search database?
+- How can I estimate key transmission metrics from a time series of case data?
+- How do I account for incomplete reporting in forecasts?
+
+### Day 5
+- How to estimate the case fatality ratio (CFR) and adjust for common biases?
+- How can we estimate individual-level variation in transmission (i.e. superspreading potential)?
+
+
+## Timetable
+
+| Day       | Session    | Time and date     | Topic     |
+|---------|:-----|------:|:------:|
+| 12      | 12   |    12 |   12   |
+| 123     | 123  |   123 |  123   |
+| 1       | 1    |     1 |   1    |
+
+: Workshop schedule {.striped .hover}
