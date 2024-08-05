@@ -8,15 +8,13 @@ website:
     search: true
     pinned: true
     right:
-        - text: "Home"
-          href: index.qmd
         - text: "Programme"
           href: schedule.qmd
-        - text: "Pre-summit Training"
+        - text: "Pre-summit Training Workshop"
           href: pre-training.qmd
         - text: "Travel Information"
           href: information.qmd
-        - text: "Committees"
+        - text: "Organizing Committees"
           href: committees.qmd
         - text: "Contact"
           href: contact.qmd

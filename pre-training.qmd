@@ -2,7 +2,7 @@
 tbl-cap-location: bottom
 ---
 
-## Outbreak analytics with R - training workshop {#pre-summit-training}
+## Outbreak analytics with R -  workshop {#pre-summit-training}
 
 **Dates:** Monday 25 November to Friday 29 November 2024 (5 days)
 
@@ -14,7 +14,7 @@ tbl-cap-location: bottom
 This week-long in-person workshop provide a practical introduction to outbreak data analysis using R packages developed by the Epiverse-TRACE initiative..
 
 
-Fill out this [form to apply](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=09a01e121b9447dbbec65057eece25af&id=oaKtcild7U6xlPh0V3cUnuJi79dolFdJoZ1qVAcSQu9UMVNUTzdEWk9CNTJMNFZNQlM2UlQ4UDNHVi4u) for this training. Application deadline is **Friday 27th September**. Places are limited and will be given on a first come, first served basis. There is no registration fee and limited funds are available for travel and local expenses. Application data will be kept confidential and may only be published in aggregated and anonymised forms in Epiverse-TRACE outreach reports. If you have any other questions about the training, please send an email to [ndree.valle-campos@lshtm.ac.uk]() or [lshad35@lshtm.ac.uk]().
+Fill out this [form to apply](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=09a01e121b9447dbbec65057eece25af&id=oaKtcild7U6xlPh0V3cUnuJi79dolFdJoZ1qVAcSQu9UMVNUTzdEWk9CNTJMNFZNQlM2UlQ4UDNHVi4u) for this training. Application deadline is **Friday 27th September**. Places are limited and will be given on a first come, first served basis. There is no registration fee and limited funds are available for travel and local expenses. Application data will be kept confidential and may only be published in aggregated and anonymised forms in Epiverse-TRACE outreach reports. If you have any other questions about the training, please send an email to [andree.valle-campos@lshtm.ac.uk]() or [lshad35@lshtm.ac.uk]().
 
 
 ## Workshop content
@@ -52,10 +52,18 @@ Fill out this [form to apply](https://forms.office.com/Pages/DesignPageV2.aspx?s
 
 ## Timetable
 
-| Day       | Session    | Time and date     | Topic     |
-|---------|:-----|------:|:------:|
-| 12      | 12   |    12 |   12   |
-| 123     | 123  |   123 |  123   |
-| 1       | 1    |     1 |   1    |
+| Day     | Session    | Time and date     | Topic     |
+|:-------:|:-----:|:------:|:------|
+| 1       | 1    |Monday 25 June (9:30 h - 12:30 h)|   A refresher on the basics of R: data input, data Subsetting, and data manipulation |
+| 1       | 2    |Monday 25 June (2:00 h - 17:00 h)|  A refresher on the basics of R: functions, visualization, and statistics|
+| 2       | 3    |Tuesday 26 June (9:30 h - 12:30 h)|   Read, clean, and standardize outbreak case data|
+| 2       | 4    |Tuesday 26 June (2:00 h - 17:00 h)|   Validate, aggregate and visualize outbreak case data|
+| 3       | 5    |Wednesday 27 June (9:30 h - 12:30 h)|   Simulate disease spread and investigate interventions  |
+| 3       | 6    |Wednes 27 June (2:00 h - 17:00 h)|   simulate transmission chains    |
+| 4       | 7    |Thursday 28 June (9:30 h - 12:30 h) |   A primer on delay distributions and their usage in outbreak analytics    |
+| 4       | 8    |Thursday 28 June (2:00 h - 17:00 h)|   Access epidemiological parameters and estimate transmission metrics    |
+| 5       | 9    |Friday 29 June (9:30 h - 12:30 h) |   Forecast of cases and estimate outbreak severity    |
+| 5       | 10   |Friday 29 June (2:00 h - 17:00 h)|   Estimate superspreading     |
+
 
 : Workshop schedule {.striped .hover}
