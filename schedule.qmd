@@ -16,7 +16,7 @@ Expected outcomes:
 
 Moderator:
 
-```{r eval=TRUE}
+```{r eval=TRUE, echo = FALSE}
 day_1_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:30", "12:30-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
   Activity = c("opening ceremony", "launching of phase 2", "coffee break", "Phase 2 implementation planning", "Phase 2 implementation planning", "lunch break", "RSE session", "Dinner"),
@@ -39,7 +39,7 @@ Expected outcomes:
 
 Moderator:
 
-```{r eval=TRUE}
+```{r eval=TRUE, echo = FALSE}
 day_2_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:30", "12:30-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
   Activity = c("What will happen to the tools when the funding runs out?", "How do we keep the project going?", "coffee break", "Where do we locate the global south?", "Bringing a broader audience", "lunch break", "Establishing alliances", "Dinner"),
@@ -67,7 +67,7 @@ Expected outcomes:
 
 Moderator:
 
-```{r eval=TRUE}
+```{r eval=TRUE, echo = FALSE}
 day_4_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:30", "12:30-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
   Activity = c("Designing outbreak analytics course", "Designing outbreak analytics course", "coffee break", "One health / local outbreaks/ NTDs", "One health / local outbreaks/ NTDs", "lunch break", "RSE session", "Dinner"),
@@ -90,7 +90,7 @@ Expected outcomes:
 
 Moderator:
 
-```{r eval=TRUE}
+```{r eval=TRUE, echo = FALSE}
 day_5_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:30", "12:30-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
   Activity = c("Tools for surveillance", "Tools for surveillance", "coffee break", "Lessons learnt/Gaps/needs", "Lessons learnt/Gaps/needs", "lunch break", "RSE session", "Dinner"),
