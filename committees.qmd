@@ -1,43 +1,29 @@
 ---
 title: "Organizing committees"
+tbl-cap-location: bottom
+from: markdown+emoji
 ---
+This summit is prepared by four organizing committees: Local Organizing Committee (LOC), Technical Program Committee (TPC), Logistics Committee (LC), and Training Committee (TC). The table below lists the members of these committees
 
-### Local Organizing Committee (LOC) Members
+| Person          | Affiliation  |   LOC  |       TPC |    TC    |   LC   | 
+|:------------------------------|:-------------:|-------:|:---------:|:---------|:-------|
+|Bankole Ahadzie  | MRCG         | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: |   -  |
+|James Azam  | LSHTM         | -|  - | :heavy_check_mark: |   -  |
+|Bubacarr Bah | MRCG | :heavy_check_mark: |:heavy_check_mark: |   :heavy_check_mark: |        -  |
+|Andree Valle Campos | LSHTM | - | - |  :heavy_check_mark:  |      -  |
+|Abdoelnaser Degoot | MRCG |:heavy_check_mark:  |:heavy_check_mark: |:heavy_check_mark:| -  |
+|Gibril Gabbidon| LSHTM | -  | :heavy_check_mark: |       -  |   :heavy_check_mark:  |
+|Alannah Hogg | LSHTM | -  | :heavy_check_mark: |       -  |   :heavy_check_mark:  |
+|Adam Kucharski | LSHTM | -  | :heavy_check_mark: |       -  |   -  |
+|Atta Lowe | MRCG | :heavy_check_mark:  | - |       -  |   -  |
+|Joshua Lambert| LSHTM | :heavy_check_mark:  | - |       -  |   -  |
+|Karim Mane | MRCG | :heavy_check_mark: |:heavy_check_mark: |      :heavy_check_mark:  |   -  |
+|Nuredin Mohammed | MRCG | -|:heavy_check_mark: |    -  |   -  |
+|Maguette Ndong| Data.org | :heavy_check_mark:|:heavy_check_mark: |    -  |   -  |
+|Natalia Niño | Los Andes | :heavy_check_mark:|:heavy_check_mark: |    -  |   -  |
+|Diana Fajardo Pulido | Javeriana | -  | :heavy_check_mark: |   - |      -  |
+|Alimatou Sallah | MRCG | -  | - |   - |      :heavy_check_mark:  |
+|Kebba Secka | MRCG | :heavy_check_mark:  | - |   - |      -  |
+|Carmen Tamayo | LSHTM | -  | - |:heavy_check_mark:|      -  |
+: Members of the summit organizing commetties {.striped .hover .responsive-md}
 
-1.  Bankole Ahadzie, Research Software Engineer, MRCG
-2.  Bubacarr Bah, Principal Investigator, MRCG
-3.  Abdoelnaser Degoot, Research Fellow, MRCG
-4.  Atta Lowe, Intern, Data Science, MRCG
-5.  Karim Mane, Research Software Engineer, MRCG
-6.  Nuredin Mohammed, Senior Researcher, MRCG
-7.  Kebba Secka, Intern, Data Science, MRCG
-
-### Technical Program Committee (TPC) Members
-
-1.  Bankole Ahadzie, Research Software Engineer, MRCG
-2.  Bubacarr Bah, Principal Investigator, MRCG
-3.  Abdoelnaser Degoot, Research Fellow, MRCG
-4.  Karim Mane, Research Software Engineer, MRCG
-5.  Nuredin Mohammed, Senior Researcher, MRCG
-6.  Adam Kucharski, Principal Investigator, LSHTM
-7.  Joshua Lambert, Research Software Engineer, LSHTM
-8.  Maguette Ndong, Technical Program Manager, data.org
-9.  Carmen Tamayo, Research Fellow, LSHTM
-10. Diana Fajardo Pulido, Pontificia Universidad Javeriana
-11. Natalia Niño, Universidad de los Andes
-
-### Logistics Committee (LC) Members
-
-1.  Gibril Gabbidon, Project Officer, Research Support Office, MRCG
-2.  Alannah Hogg, Admin Manager, Epiverse-TRACE, LSHTM
-3.  Alimatou Sallah, Admin Manager, Data Science, MRCG
-
-### Training Committee (TC) Members
-
-1.  Bankole Ahadzie, Research Software Engineer, MRCG
-2.  Bubacarr Bah, Principal Investigator, MRCG
-3.  Abdoelnaser Degoot, Research Fellow, MRCG
-4.  Karim Mane, Research Software Engineer, MRCG
-5.  Nuredin Mohammed, Senior Researcher, MRCG
-6.  James Azam, Research Software Engineer, LSHTM
-7.  Andree Valle Campos, Research Fellow, LSHTM
