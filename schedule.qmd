@@ -1,8 +1,8 @@
---- 
+---
 format: dashboard
 ---
 
-# {.tabset .tabset-pills}
+#  {.tabset .tabset-pills}
 
 ## Daily program {.tabset}
 
@@ -56,7 +56,6 @@ day_2_agenda |>
 
 site seeing - include images
 
-
 ### Thursday
 
 **Training and perspectives** - Describe the day
@@ -102,5 +101,3 @@ day_5_agenda |>
   kableExtra::kable_paper("striped", font_size = 18, full_width = TRUE) |>
   kableExtra::row_spec(c(3, 6, 8), color = 'white', background = 'black')
 ```
-
-
