@@ -7,7 +7,7 @@ website:
     background: secondary
     search: true
     pinned: true
-    right:
+    left:
         - text: "Programme"
           href: schedule.qmd
         - text: "Pre-summit Training"
@@ -31,11 +31,9 @@ website:
   page-footer:
     border: true
     background: light
-    left: |
+    center: |
       [![](./images/LogoDataDotOrg.png){fig-alt="datadotorg" width=80px}](https://data.org/a)
       [![](./images/idrc_logo.png){fig-alt="IDRC" width=200px}](https://www.idrc-crdi.ca/en)
-
-    center: |
       [![](./images/lshtm-logo.png){fig-alt="LSHTM" width=125px}](https://www.lshtm.ac.uk/)
       [![](./images/UKRI_MRCG_LSHTM_logo.png){fig-alt="MRCG" width=200px}](https://www.lshtm.ac.uk/research/units/mrc-gambia)
       [![](./images/Uniandes.png){fig-alt="uniandes" width=100px}](https://uniandes.edu.co/)

@@ -9,7 +9,7 @@ The [WHO](https://www.who.int/) and regional organizations are supporting the de
 These tools are developed across four institutions: the [London School of Hygiene & Tropical Medicine (LSHTM)](https://www.lshtm.ac.uk/), the [Medical Research Council Unit The Gambia at LSHTM (MRCG)](https://www.lshtm.ac.uk/research/units/mrc-gambia), and [Universidad de los Andes (UniAndes)](https://uniandes.edu.co/) and [Pontificia Universidad Javeriana (Javeriana)](https://javeriana.edu.co) in Colombia. These institutions span three countries—the UK, The Gambia, and Colombia—across three continents. 
 
 
-The third Epiverse-TRACE annual summit will be held at the MRC Unit in The Gambia from __November 2 to 6, 2024__, under the theme: [**Strengthening Inclusive and Sustainable Tools for Epidemic Preparedness**]{style="color:blue;"}. This summit provides an opportunity to discuss progress, evaluate deliverables, and plan future activities.
+The third Epiverse-TRACE annual summit will be held at the MRC Unit in Banjul, The Gambia from __November 2 to 6, 2024__, under the theme: [**Strengthening Inclusive and Sustainable Tools for Epidemic Preparedness**]{style="color:blue;"}. This summit provides an opportunity to discuss progress, evaluate deliverables, and plan future activities.
 
 Organizing committees from the Epiverse team have developed the summit's program to ensure the event's success. This includes a pre-summit training session happening the week before the summit. The training will be conducted by our team of research fellows, supported by Research Software Engineers (RSEs). Participants will learn how to use our tools within an outbreak analysis workflow.
 
