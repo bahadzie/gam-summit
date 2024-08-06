@@ -27,8 +27,8 @@ This summit is prepared by four organizing committees:
 |Karim Mane | MRCG | :heavy_check_mark: |:heavy_check_mark: |      :heavy_check_mark:  |   -  |
 |Nuredin Mohammed | MRCG | :heavy_check_mark: |:heavy_check_mark: |    -  |   -  |
 |Maguette Ndong| Data.org | -|:heavy_check_mark: |    -  |   -  |
-|Natalia Niño | Universidad de Los Andes | -|:heavy_check_mark: |    -  |   -  |
-|Diana Fajardo Pulido | Universidad de Javeriana | -  | :heavy_check_mark: |   - |      -  |
+|Natalia Niño | UniAndes | -|:heavy_check_mark: |    -  |   -  |
+|Diana Fajardo Pulido |Javeriana | -  | :heavy_check_mark: |   - |      -  |
 |Alimatou Sallah | MRCG | -  | - |   - |      :heavy_check_mark:  |
 |Kebba Secka | MRCG | :heavy_check_mark:  | - |   - |      -  |
 |Carmen Tamayo | LSHTM | -  | - |:heavy_check_mark:|      -  |

@@ -2,7 +2,7 @@
 tbl-cap-location: bottom
 ---
 
-## Outbreak analytics with R -  workshop {#pre-summit-training}
+## Outbreak analytics with R - course {#pre-summit-training}
 
 **Dates:** Monday 25 November to Friday 29 November 2024 (5 days)
 

@@ -1,14 +1,20 @@
-# Strengthening Inclusive and Sustainable Tools for Epidemic Preparedness
+# [ Strengthening Inclusive and Sustainable Tools for Epidemic Preparedness]{style="color:blue;"}{.unnumbered .unlisted}
 
 ![](./images/MRCG_Trace_Team.jpg){fig-align="center" width="60%" height="10%"}
 
-The [WHO](https://www.who.int/) and regional organizations are supporting the development and use of analytics tools for epidemic preparedness and response. Powered by [Data.org](https://data.org/), the [Epiverse-TRACE](https://data.org/initiatives/epiverse/) project has made substantial progress towards producing analytics tools aimed at addressing the most critical questions during epidemics. Current, up to **six (6)** [Epiverse-TRACE packages](https://epiverse-trace.github.io/etstats/articles/cran-statistics.html) are on [CRAN](https://cran.r-project.org/). While close to **twenty (20)** are under active development, this reflects the results of two years of joint efforts between members of the team and our communities of users.
 
-These tools are developed across three institutions ([LSHTM](https://www.lshtm.ac.uk/), [MRCG](https://www.lshtm.ac.uk/research/units/mrc-gambia), [UniAndes](https://uniandes.edu.co/), [Javeriana](https://javeriana.edu.co)) that are spread across three countries (The UK, The Gambia, and Colombia), and located in three continents. Given the spread and the wide diversity of the team, it was decided, for smooth integration and collaboration between the members, to organize a **summit** in one of the above countries hosting the project. For a week or so, this is an opportunity to discuss the progress, evaluate the deliveries, and plan for our next moves.
 
-This year, the Epiverse-TRACE annual summit will be held at the Medical Research Council, The Gambia Unit at LSHTM. Our teams and organizing committees are working for the success of the event, including the pre-summit training that will happen a week prior to the summit. The training will be conducted by our team of research fellows, supported by the RSEs. Participants will learn how to use our tools within an outbreak analysis workflow.
+The [WHO](https://www.who.int/) and regional organizations are supporting the development and use of analytics tools for epidemic preparedness and response. Powered by [Data.org](https://data.org/), the [Epiverse-TRACE](https://data.org/initiatives/epiverse/) project has made substantial progress towards producing analytics tools aimed at addressing the most critical questions during epidemics. Currently, up to **six (6)** [Epiverse-TRACE packages](https://epiverse-trace.github.io/etstats/articles/cran-statistics.html) are available on [CRAN](https://cran.r-project.org/), with nearly **twenty (20)** more under active development. This reflects the results of two years of joint efforts between team members and our user communities.
 
-## Previous Summits
+These tools are developed across four institutions: the [London School of Hygiene & Tropical Medicine (LSHTM)](https://www.lshtm.ac.uk/), the [Medical Research Council Unit The Gambia at LSHTM (MRCG)](https://www.lshtm.ac.uk/research/units/mrc-gambia), and [Universidad de los Andes (UniAndes)](https://uniandes.edu.co/) and [Pontificia Universidad Javeriana (Javeriana)](https://javeriana.edu.co) in Colombia. These institutions span three countries—the UK, The Gambia, and Colombia—across three continents. 
+
+
+The third Epiverse-TRACE annual summit will be held at the MRC Unit in The Gambia from __November 2 to 6, 2024__, under the theme: [**Strengthening Inclusive and Sustainable Tools for Epidemic Preparedness**]{style="color:blue;"}. This summit provides an opportunity to discuss progress, evaluate deliverables, and plan future activities.
+
+Organizing committees from the Epiverse team have developed the summit's program to ensure the event's success. This includes a pre-summit training session happening the week before the summit. The training will be conducted by our team of research fellows, supported by Research Software Engineers (RSEs). Participants will learn how to use our tools within an outbreak analysis workflow.
+
+
+## Previous Summits {.unnumbered .unlisted}
 
 ### 100 days and 100 lines of code
 
