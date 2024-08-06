@@ -10,11 +10,20 @@ website:
     right:
         - text: "Programme"
           href: schedule.qmd
-        - text: "Pre-summit Training Workshop"
+        - text: "Pre-summit Training"
           href: pre-training.qmd
         - text: "Travel Information"
-          href: information.qmd
-        - text: "Organizing Committees"
+          menu: 
+            - text: "Venue"
+              icon: "luggage"
+              href: venue.qmd
+            - text: "Travel & Visas"
+              icon: "passport"
+              href: visa.qmd
+            - text: Accommodation
+              icon: "buildings"
+              href: accommodation.qmd
+        - text: "Committees"
           href: committees.qmd
         - text: "Contact"
           href: contact.qmd
