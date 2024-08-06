@@ -25,7 +25,7 @@ website:
               href: accommodation.qmd
         - text: "Committees"
           href: committees.qmd
-        - text: "Contact"
+        - text: "Contact US"
           href: contact.qmd
 
   page-footer:
@@ -33,6 +33,8 @@ website:
     background: light
     left: |
       [![](./images/LogoDataDotOrg.png){fig-alt="datadotorg" width=80px}](https://data.org/a)
+      [![](./images/idrc_logo.png){fig-alt="IDRC" width=200px}](https://www.idrc-crdi.ca/en)
+
     center: |
       [![](./images/lshtm-logo.png){fig-alt="LSHTM" width=125px}](https://www.lshtm.ac.uk/)
       [![](./images/UKRI_MRCG_LSHTM_logo.png){fig-alt="MRCG" width=200px}](https://www.lshtm.ac.uk/research/units/mrc-gambia)
@@ -43,8 +45,6 @@ website:
         href: https://github.com/epiverse-trace
       - icon: twitter
         href: https://twitter.com/Epiverse_TRACE
-
-
 format:
   html:
     theme: cosmo
