@@ -2,30 +2,14 @@
 title: "Accommodation"
 ---
 
-Please see the suggested lodging option below offering the greatest value for the summit attendees.
-
-To facilitate the participation of attendees, the Epiverse-TRACE 2024 Summit Local Organising Committee is pleased to offer a dedicated accommodation option reserved for attendees coming from abroad at the Majula Boutique Hotel, as soon as your attendance is confirmed. Having opened recently, this modern, newly-built facility is conveniently located directly opposite and only a few footsteps away from the MRC unit in Fajara (summit venue) , featuring views of the this beautiful city on three sides and a rooftop terrace. All rooms come with a private bathroom, air-conditioning, and fast Wi-Fi.
-
-**Take Them for Their Words:**
-
-### MBH Overview
-
-"Welcome to our enchanting 5-star beach side hotel in Fajara, The\
-Gambia, where luxury meets the soothing rhythm of the ocean waves. As a locally-run establishment, we take pride in offering an authentic Gambian experience combined with world-class hospitality."
-
-### MBH Accommodation:
-
-"No matter which option you choose, you can expect a seamless blend of Gambian culture, modern comfort, and breathtaking ocean views. Each room and suite is designed to offer a unique experience while ensuring that you're surrounded by the natural beauty of the beach and ocean throughout your stay."
-
-### MBH LOCATION
-
-"Nestled along the breathtaking coastline of West Africa, our hotel embraces the spirit of The Gambia, a land known for its vibrant culture and welcoming smiles. From the moment you step foot onto our sun-kissed grounds, you become a part of our extended family, and we take pride in crafting moments that will be cherished for a lifetime."
+To facilitate the participation of attendees, the Epiverse-TRACE 2024 Summit Local Organising Committee is pleased to offer a dedicated accommodation option reserved for attendees coming from abroad at the [Majula Boutique Hotel](https://www.majulaboutiquehotel.com/). Once your attendance is confirmed, you can book a stay at this modern, newly-built facility. Conveniently located directly opposite and only a few footsteps away from the MRC unit in Fajara (the summit venue), the hotel features views of this beautiful city on three sides and a rooftop terrace. All rooms equiped with a private bathroom, air conditioning, and fast, free Wi-Fi.
 
 ::: {layout-nrow="2"}
-![](./images/mj_hotel/pic1.jpg)
+![](./images/mj_hotel_pic1.jpg)
 
-![](./images/mj_hotel/pic2.jpg)
+![](./images/mj_hotel_pic2.jpg)
 
-![](./images/mj_hotel/pic3.jpg)
+![](./images/mj_hotel_pic3.jpg)
 
+![](./images/mj_hotel_pic4.jpg)
 :::
