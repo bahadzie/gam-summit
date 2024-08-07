@@ -7,7 +7,7 @@ website:
     background: secondary
     search: true
     pinned: true
-    left:
+    right:
         - text: "Programme"
           href: schedule.qmd
         - text: "Pre-summit Training"
