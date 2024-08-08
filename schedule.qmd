@@ -8,23 +8,25 @@ format: dashboard
 
 ### Monday
 
+**Epiverse-TRACE perspectives**
+
+Day 1 aims at presenting the project perspectives, specially the planning of its second phase. Attendees will discuss and review the planning drafted by the PIs. This way, we expect to achieve the inclusiveness of the ultimate phase 2 planning document.
+
 
 **Objectives**: 
 
-- Open ceremony and start the official launching of phase 2 of the project
-- Discussion of the implementation of Phase 2 of the Epiverse-TRACe project
+- Discuss the implementation of Phase 2 of the Epiverse-TRACE project.
 
 **Expected outcomes**: 
 
-- Openning remarks from Bubacarr Bah, MRC Director,  Data.org and representative of MoH.
-- review and feedback for the proporsal for road-map of phase 2.
+- Gathering reviews and feedback to reinforce the proposal for road-map of phase 2.
 
 
 ```{r eval=TRUE, echo = FALSE}
 day_1_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-11:45",  "12:30-12:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("Arrival and registration", "opening ceremony and launching of phase 2 Epiverse-TRACE project", "coffee break", "Ice breker", "Planning for phase 2 implementation", "lunch break", "RF/RSE sessions", "Dinner"),
-  Speakers = c("-", "Bubacarr, MRC Director, Representative of Data.org, and MOH", "", "Banky", "Representative of Data.org and groups discussion", "", "Representative of RF and RSE teams", "")
+  Activity = c("Welcome and registration", "opening ceremony and launching of phase 2 Epiverse-TRACE project", "coffee break", "Ice breaker", "Planning for phase 2 implementation", "lunch break", "RF/RSE sessions", "Dinner"),
+  Speakers = c("-", "Dr Bubacarr Bah, Pr Umberto D'Alessandro, Data.org (TBC), and MoH (TBC)", "", "Banky", "Data.org (TBC)", "", "James and Degoot", "")
 )
 
 day_1_agenda |>
@@ -35,19 +37,35 @@ day_1_agenda |>
 
 ### Tuesday
 
-**Inclusivity and Sustainability** - Describe the day
+**Sustainability and Inclusivity**
 
-Objectives:
+Day 2 aims at evaluating phase 1 of the project and discussing the ways to keep the project going, while accounting for the health concerns in the global south. 
 
-Expected outcomes:
+**Objectives:**
 
-Moderator:
+* Determine the lessons learnt in phase 1.
+* Identify opportunities for collaboration from the gaps and needs from phase 1.
+* Expand the scope of our tools to cover public health threats in other parts of the world.
+* Determine the “fate” of our tools when the project runs out.
+
+**Expected outcomes:**
+
+* Identification of:
+    - potential collaborators to fulfill the gaps and needs,
+    - our strengths and weaknesses,
+    - ways of covering more health issues.
+* A strategic plan for keeping the project and tools alive
+
+**Moderators:**
+
+Nuredin Mohammed,
+Data.org (TBC)
 
 ```{r eval=TRUE, echo = FALSE}
 day_2_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:30", "12:30-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("What will happen to the tools when the funding runs out?", "How do we keep the project going?", "coffee break", "Where do we locate the global south?", "Bringing a broader audience", "lunch break", "Establishing alliances", "Dinner"),
-  Speakers = c("", "", "", "", "", "", "", "")
+  Activity = c("Phase 1: lessons learnt/gaps/needs", "Inclisivity of analytics tools in Public Health", "coffee break", "Are epiverse tools inclusive? Where do we fail to achieve inclusiveness?", "Opportunities from the gaps/needs", "lunch break", "Feedback from the activities of the day", "Dinner"),
+  Speakers = c("group discussions", "TBC by Nuredin", "", "group discussions", "group discussions", "", "group representatives", "")
 )
 
 day_2_agenda |>
