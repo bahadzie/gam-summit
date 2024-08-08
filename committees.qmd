@@ -13,25 +13,27 @@ This summit is prepared by four organizing committees:
 
 The table below lists the members of these committees
 
-| Person               |       Affiliation        |                LOC |        TPC         | TC                 | LC                 |
-|:---------------------|:------------------------:|-------------------:|:------------------:|:-------------------|:-------------------|
-| Bankole Ahadzie      |           MRCG           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | \-                 |
-| James Azam           |          LSHTM           |                 \- |         \-         | :heavy_check_mark: | \-                 |
-| Bubacarr Bah         |           MRCG           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | \-                 |
-| Andree Valle Campos  |          LSHTM           |                 \- |         \-         | :heavy_check_mark: | \-                 |
-| Abdoelnaser Degoot   |           MRCG           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | \-                 |
-| Gibril Gabbidon      |           MRCG           |                 \- |         \-         | \-                 | :heavy_check_mark: |
-| Alannah Hogg         |          LSHTM           |                 \- | :heavy_check_mark: | \-                 | :heavy_check_mark: |
-| Adam Kucharski       |          LSHTM           |                 \- | :heavy_check_mark: | \-                 | \-                 |
-| Atta Lowe            |           MRCG           | :heavy_check_mark: |         \-         | \-                 | \-                 |
-| Joshua Lambert       |          LSHTM           |                 \- |         \-         | :heavy_check_mark: | \-                 |
-| Karim Mane           |           MRCG           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | \-                 |
-| Nuredin Mohammed     |           MRCG           | :heavy_check_mark: | :heavy_check_mark: | \-                 | \-                 |
-| Maguette Ndong       |         Data.org         |                 \- | :heavy_check_mark: | \-                 | \-                 |
-| Natalia Niño         | Universidad de Los Andes |                 \- | :heavy_check_mark: | \-                 | \-                 |
-| Diana Fajardo Pulido | Universidad de Javeriana |                 \- | :heavy_check_mark: | \-                 | \-                 |
-| Alimatou Sallah      |           MRCG           |                 \- |         \-         | \-                 | :heavy_check_mark: |
-| Kebba Secka          |           MRCG           | :heavy_check_mark: |         \-         | \-                 | \-                 |
-| Carmen Tamayo        |          LSHTM           |                 \- |         \-         | :heavy_check_mark: | \-                 |
+
+| Person          | Affiliation  |   LOC  |       TPC |    TC    |   LC   | 
+|:------------------------------|:-------------:|-------:|:---------:|:---------|:-------|
+|Bankole Ahadzie  | MRCG         | :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: |   -  |
+|James Azam  | LSHTM         | -|  - | :heavy_check_mark: |   -  |
+|Bubacarr Bah | MRCG | :heavy_check_mark: |:heavy_check_mark: |   :heavy_check_mark: |        -  |
+|Andree Valle Campos | LSHTM | - | - |  :heavy_check_mark:  |      -  |
+|Abdoelnaser Degoot | MRCG |:heavy_check_mark:  |:heavy_check_mark: |:heavy_check_mark:| -  |
+|Gibril Gabbidon| MRCG | -  | - |       -  |   :heavy_check_mark:  |
+|Alannah Hogg | LSHTM | -  | :heavy_check_mark: |       -  |   :heavy_check_mark:  |
+|Adam Kucharski | LSHTM | -  | :heavy_check_mark: |       -  |   -  |
+|Atta Lowe | MRCG | :heavy_check_mark:  | - |       -  |   -  |
+|Joshua Lambert| LSHTM | - | - | :heavy_check_mark:   |   -  |
+|Karim Mane | MRCG | :heavy_check_mark: |:heavy_check_mark: |      :heavy_check_mark:  |   -  |
+|Nuredin Mohammed | MRCG | :heavy_check_mark: |:heavy_check_mark: |    -  |   -  |
+|Maguette Ndong| Data.org | -|:heavy_check_mark: |    -  |   -  |
+|Natalia Niño | UniAndes | -|:heavy_check_mark: |    -  |   -  |
+|Diana Fajardo Pulido |Javeriana | -  | :heavy_check_mark: |   - |      -  |
+|Alimatou Sallah | MRCG | -  | - |   - |      :heavy_check_mark:  |
+|Kebba Secka | MRCG | :heavy_check_mark:  | - |   - |      -  |
+|Carmen Tamayo | LSHTM | -  | - |:heavy_check_mark:|      -  |
+: Members of the summit organizing committees {.striped .hover .responsive-md}
 
 : Members of the organizing committees {.striped .hover .responsive-md}
