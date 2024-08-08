@@ -8,19 +8,23 @@ format: dashboard
 
 ### Monday
 
-Describe the day
 
-Objectives:
+**Objectives**: 
 
-Expected outcomes:
+- Open ceremony and start the official launching of phase 2 of the project
+- Discussion of the implementation of Phase 2 of the Epiverse-TRACe project
 
-Moderator:
+**Expected outcomes**: 
+
+- Openning remarks from Bubacarr Bah, MRC Director,  Data.org and representative of MoH.
+- review and feedback for the proporsal for road-map of phase 2.
+
 
 ```{r eval=TRUE, echo = FALSE}
 day_1_agenda <- data.frame(
-  Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:30", "12:30-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("opening ceremony", "launching of phase 2", "coffee break", "Phase 2 implementation planning", "Phase 2 implementation planning", "lunch break", "RSE session", "Dinner"),
-  Speakers = c("", "", "", "", "", "", "", "")
+  Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-11:45",  "12:30-12:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
+  Activity = c("Arrival and registration", "opening ceremony and launching of phase 2 Epiverse-TRACE project", "coffee break", "Ice breker", "Planning for phase 2 implementation", "lunch break", "RF/RSE sessions", "Dinner"),
+  Speakers = c("-", "Bubacarr, MRC Director, Representative of Data.org, and MOH", "", "Banky", "Representative of Data.org and groups discussion", "", "Representative of RF and RSE teams", "")
 )
 
 day_1_agenda |>
