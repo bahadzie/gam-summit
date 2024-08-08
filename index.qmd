@@ -1,6 +1,6 @@
 # [ Strenthening sustainable and inclusive analytics ecosystem for epidemic preparedness]{style="color:black;"}{.unnumbered .unlisted}
 
-![](./images/Epiverse-Trace-Summit-group-photo-1920x1080.jpg){fig-align="center" width="100%" height="10%"}
+![](./images/pkgs-hexlogos-2.png){fig-align="center" width="100%" height="10%"}
 
 
 
