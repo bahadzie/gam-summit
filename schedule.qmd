@@ -10,22 +10,21 @@ format: dashboard
 
 **Epiverse-TRACE perspectives**
 
-Day 1 aims at presenting the project perspectives, specially the planning of its second phase. Attendees will discuss and review the planning drafted by the PIs. This way, we expect to achieve the inclusiveness of the ultimate phase 2 planning document.
-
+**Day 1**: will focus on presenting the project objectives, particularly the planning for its second phase. Attendees will have the opportunity to discuss and review the draft planning document prepared by the PIs. This collaborative approach aims to ensure that the final phase 2 planning document is comprehensive and inclusive.
 
 **Objectives**: 
-
+- Opening of the summit.
 - Discuss the implementation of Phase 2 of the Epiverse-TRACE project.
 
 **Expected outcomes**: 
 
-- Gathering reviews and feedback to reinforce the proposal for road-map of phase 2.
+- Gather reviews and feedback to strengthen the proposal for the phase 2 roadmap.
 
 
 ```{r eval=TRUE, echo = FALSE}
 day_1_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-11:45",  "12:30-12:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("Welcome and registration", "opening ceremony and launching of phase 2 Epiverse-TRACE project", "coffee break", "Ice breaker", "Planning for phase 2 implementation", "lunch break", "RF/RSE sessions", "Dinner"),
+  Activity = c("Welcome and registration", "Opening ceremony and launching of phase 2 Epiverse-TRACE project", "coffee break", "Ice breaker", "Planning for phase 2 implementation", "lunch break", "RF/RSE sessions", "Dinner"),
   Speakers = c("-", "Dr Bubacarr Bah, Pr Umberto D'Alessandro, Data.org (TBC), and MoH (TBC)", "", "Banky", "Data.org (TBC)", "", "James and Degoot", "")
 )
 

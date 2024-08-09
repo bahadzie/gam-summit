@@ -2,14 +2,9 @@
 
 ![](./images/pkgs-hexlogos-2.png){fig-align="center" width="100%" height="10%"}
 
-Every year, the Epiverse-TRACE team members, along with invited stakeholders from WHO, Data.org, and various healthcare organizations, convene to discuss progress, evaluate deliverables, and plan future activities.
+Powered by [Data.org](https://data.org/), the [Epiverse-TRACE](https://data.org/initiatives/epiverse/) project has made substantial progress towards producing analytics tools aimed at addressing the most critical questions during epidemics. Currently, up to **six (6)** [Epiverse-TRACE packages](https://epiverse-trace.github.io/etstats/articles/cran-statistics.html) are available on [CRAN](https://cran.r-project.org/), with nearly **twenty (20)** more under active development. This reflects the results of two years of joint efforts between team members and our user communities.
 
- Powered by [Data.org](https://data.org/), the [Epiverse-TRACE](https://data.org/initiatives/epiverse/) project has made substantial progress towards producing analytics tools aimed at addressing the most critical questions during epidemics. Currently, up to **six (6)** [Epiverse-TRACE packages](https://epiverse-trace.github.io/etstats/articles/cran-statistics.html) are available on [CRAN](https://cran.r-project.org/), with nearly **twenty (20)** more under active development. This reflects the results of two years of joint efforts between team members and our user communities.
-
-
-
-
-The third Epiverse-TRACE annual summit will be held at the MRC Unit in Banjul, The Gambia from __November 2 to 6, 2024__, under the theme: [**Strenthening sustainable and inclusive analytics ecosystem for epidemic preparedness**]{style="color:black;"}. This summit provides an opportunity to discuss progress, evaluate deliverables, and plan future activities.
+Every year, the Epiverse-TRACE team members, along with invited stakeholders from WHO, Data.org, and various healthcare organizations, convene to discuss progress, evaluate deliverables, and plan future activities. The third Epiverse-TRACE annual summit will be held at the MRC Unit in Banjul, The Gambia from __November 2 to 6, 2024__, under the theme: [**Strenthening sustainable and inclusive analytics ecosystem for epidemic preparedness**]{style="color:black;"}. This summit provides an opportunity to discuss progress, evaluate deliverables, and plan future activities.
 
 Organizing committees from the Epiverse team have developed the summit's program to ensure the event's success. This includes a pre-summit training session happening the week before the summit. The training will be conducted by our team of research fellows, supported by Research Software Engineers (RSEs). Participants will learn how to use our tools within an outbreak analysis workflow.
 
