@@ -36,4 +36,3 @@ The table below lists the members of these committees
 |Carmen Tamayo | LSHTM | -  | - |:heavy_check_mark:|      -  |
 : Members of the summit organizing committees {.striped .hover .responsive-md}
 
-: Members of the organizing committees {.striped .hover .responsive-md}

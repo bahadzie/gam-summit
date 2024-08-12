@@ -38,14 +38,16 @@ day_1_agenda |>
 
 **Sustainability and Inclusivity**
 
-Day 2 aims at evaluating phase 1 of the project and discussing the ways to keep the project going, while accounting for the health concerns in the global south. 
+**Day 2** focuses on reflection, strategic planning, inclusivity, and the sustainability of the project. 
 
 **Objectives:**
 
-* Determine the lessons learnt in phase 1.
-* Identify opportunities for collaboration from the gaps and needs from phase 1.
-* Expand the scope of our tools to cover public health threats in other parts of the world.
-* Determine the “fate” of our tools when the project runs out.
+
+- Assess how well the project tools currently address diverse populations and settings.
+- Identify gaps in inclusivity (e.g., language barriers, accessibility).
+-  Identify opportunities for collaboration from the gaps and needs from phase 1.
+- Expand the scope of our tools to cover public health threats in other parts of the world.
+* Explore the sustainability of the project.
 
 **Expected outcomes:**
 
@@ -53,7 +55,7 @@ Day 2 aims at evaluating phase 1 of the project and discussing the ways to keep 
     - potential collaborators to fulfill the gaps and needs,
     - our strengths and weaknesses,
     - ways of covering more health issues.
-* A strategic plan for keeping the project and tools alive
+* A strategic roadmap for ensuring the continued relevance and use of our tools post-project.
 
 **Moderators:**
 
@@ -79,7 +81,7 @@ site seeing - include images
 
 ### Thursday
 
-**Training and perspectives** - Describe the day
+**Training and perspectives** foucs on designing a data-centered outbreak analytics course
 
 Objectives:
 
