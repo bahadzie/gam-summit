@@ -1,1 +1,0 @@
-For GitHub Actions auto site generation.
