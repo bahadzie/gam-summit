@@ -3,6 +3,6 @@
 .RData
 .Ruserdata
 
-/.quarto/
-/_site/
+/.quarto
+/_site
 .DS_Store
