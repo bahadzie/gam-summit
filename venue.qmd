@@ -1,9 +1,0 @@
----
-title: Summit Venue
----
-
-The summit will take place at the MRCG unit at the LSHTM unit in Fajara. Spanning approximately 100 acres, the unit offers a modern, fully-equipped venue in the heart of Fajara. This convenient location is near various attractions, transport facilities, and accommodations that cater to all preferences. 
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1dV4ybCwRhZEXvbq5XZXWZ2cFmI_0EQ0&amp;ehbc=2E312F&amp;noprof=1" width="100%" height="480">
-
-</iframe>

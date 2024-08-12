@@ -3,22 +3,23 @@ title: Contact Us
 format: 
     html: 
         css: styles.css
+from: markdown+emoji
 ---
 
 For more information about the summit, please feel free to contact:
 
-- **Bubacarr Bah**
-  - Phone: (220) 280 8473
-  - Email: bubacarr.bah1@lshtm.ac.uk
+-   **Bubacarr Bah**
+    - :phone: Phone : (220) 280 8473
+    - :email: Email: bubacarr.bah1\@lshtm.ac.uk
 
 For information about the pre-summit training course, contact:
 
-- **Abdoelnaser Degoot**
-  - Phone: (220) 758 6280
-  - Email: abdoelnaser-mahmood.degoot@lshtm.ac.uk
+-   **Abdoelnaser Degoot**
+    - :phone:  Phone: (220) 758 6280
+    - :email:  Email: abdoelnaser-mahmood.degoot\@lshtm.ac.uk
 
 Inquiries about logistics should be sent to:
 
-- **Gibbril Gabbidon**
-  - Phone: (220) 725 3921
-  - Email: gibril.gabbidon@lshtm.ac.uk
+-   **Gibbril Gabbidon**
+    - :phone:  Phone: (220) 725 3921
+    - :email:  Email: gibril.gabbidon\@lshtm.ac.uk
