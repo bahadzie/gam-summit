@@ -8,11 +8,12 @@ format: dashboard
 
 ### Monday
 
-**Epiverse-TRACE perspectives**
+**Openning ceremony and Phase 2 of Epiverse-TRACE**
 
-**Day 1**: will focus on presenting the project objectives, particularly the planning for its second phase. Attendees will have the opportunity to discuss and review the draft planning document prepared by the PIs. This collaborative approach aims to ensure that the final phase 2 planning document is comprehensive and inclusive.
+Will focus on presenting the project objectives, particularly the planning for its second phase. Project members will have the opportunity to discuss and review the draft planning document prepared by the PIs. 
 
 **Objectives**: 
+
 - Opening of the summit.
 - Discuss the implementation of Phase 2 of the Epiverse-TRACE project.
 
@@ -20,11 +21,13 @@ format: dashboard
 
 - Gather reviews and feedback to strengthen the proposal for the phase 2 roadmap.
 
+**moderators**:
+
 
 ```{r eval=TRUE, echo = FALSE}
 day_1_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-11:45",  "12:30-12:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("Welcome and registration", "Opening ceremony and launching of phase 2 Epiverse-TRACE project", "coffee break", "Ice breaker", "Planning for phase 2 implementation", "lunch break", "RF/RSE sessions", "Dinner"),
+  Activity = c("Welcome and registration", "Opening ceremony and launching of phase 2 Epiverse-TRACE project", "Coffee break", "Ice breaker", "Planning for phase 2 implementation", "Lunch", "RF & RSE sessions", "Dinner"),
   Speakers = c("-", "Dr Bubacarr Bah, Pr Umberto D'Alessandro, Data.org (TBC), and MoH (TBC)", "", "Banky", "Data.org (TBC)", "", "James and Degoot", "")
 )
 
@@ -36,9 +39,9 @@ day_1_agenda |>
 
 ### Tuesday
 
-**Sustainability and Inclusivity**
+**Inclusivity and sustainability  of Epiverse-TRACE tools**
 
-**Day 2** focuses on reflection, strategic planning, inclusivity, and the sustainability of the project. 
+Discuss the inclusivity and sustainability of the project tools  
 
 **Objectives:**
 
@@ -65,8 +68,8 @@ Data.org (TBC)
 ```{r eval=TRUE, echo = FALSE}
 day_2_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:30", "12:30-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("Phase 1: lessons learnt/gaps/needs", "Inclisivity of analytics tools in Public Health", "coffee break", "Are epiverse tools inclusive? Where do we fail to achieve inclusiveness?", "Opportunities from the gaps/needs", "lunch break", "Feedback from the activities of the day", "Dinner"),
-  Speakers = c("group discussions", "TBC by Nuredin", "", "group discussions", "group discussions", "", "group representatives", "")
+  Activity = c("Inclusivity ", "Inclisivity of analytics tools in Public Health. Are epiverse tools inclusive? Where do we fail to achieve inclusiveness?", "Coffee break", "Sustainability", "Sustainability of analytics tools. Are Epiverse tools sustainable? How do we achieve it?", "Lunch", "RF & RSE sessions", "Dinner"),
+  Speakers = c("Export presentation", "Group discussion", "", "Expert presenation", "Group discussions", "", "James and Degoot", "")
 )
 
 day_2_agenda |>
@@ -81,19 +84,63 @@ site seeing - include images
 
 ### Thursday
 
-**Training and perspectives** foucs on designing a data-centered outbreak analytics course
+**Epiverse-TRACE tools beyond infectious diseases**
 
-Objectives:
+These sessions  focused on how the Epiverse-TRACE analytical tools can be applied beyond infectious diseases. Discussions will cover their usage in context of small-scale local outbreaks, neglected tropical diseases (__NTDs__), one health perspectives, and in disease surveillance.
 
-Expected outcomes:
+**objectives**:
 
-Moderator:
+  - Explore how Epiverse-TRACeE tools can be adapted for non-infectious disease contexts, particularly in small-scale local outbreaks and neglected tropical diseases.
+  - One Health Approach: Highlight the integration to the one health perspective, considering the interconnection between people, animals, plants, and their shared environment.
+  - Enhance Surveillance: Discuss the potential of these tools in enhancing surveillance systems across various health domains.
+
+**Expected Outcomes**:
+
+- Gain insights into the broader applicability of Epiverse-TRACeE tools beyond traditional infectious disease analytics.
+- Identify opportunities for interdisciplinary collaborations and partnerships to enhance surveillance and outbreak response
+
+**Moderators**:
+
+- Natalia Niño, Bubacarr Bah, and Adam Kucharski
+
+```{r eval=TRUE, echo = FALSE}
+day_5_agenda <- data.frame(
+  Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:30", "12:30-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
+  Activity = c("Local outbreaks", "NTDs", "Coffee break", "One health", "Disease surveillance",  "lunch break", "RF/RSE sessions", "Dinner"),
+  Speakers = c(" Group discussion", "Group discussion", "", "Group discussion", "Group discussion", "", "", "")
+)
+
+day_5_agenda |>
+  kableExtra::kbl() |>
+  kableExtra::kable_paper("striped", font_size = 18, full_width = TRUE) |>
+  kableExtra::row_spec(c(3, 6, 8), color = 'white', background = 'black')
+```
+
+### Firday 
+
+**Outbreak analytical course and gaps within the project** 
+
+This session will focus on how to design a data-centered outbreak analytics course aimed at training and teaching outbreak analysis. It will also reflect on lessons learnt and identify current gaps within the project and explore ways to overcome these challenges.
+
+**Objectives**:
+
+-  Develop a comprehensive and practical outbreak analytics course that effectively teaches key concepts and methods
+- Identify and discuss existing gaps within the project related to training, tools, and resources.
+
+**Expected outcomes**:
+
+- Draft Course Framework: A preliminary framework for the outbreak analytics course, including key topics, teaching methods, and assessment strategies.
+-  Plans to address the gaps, with specific implementation steps
+
+**Moderators**: 
+
+- Andree, Degoot, and Diana
 
 ```{r eval=TRUE, echo = FALSE}
 day_4_agenda <- data.frame(
   Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:30", "12:30-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("Designing outbreak analytics course", "Designing outbreak analytics course", "coffee break", "One health / local outbreaks/ NTDs", "One health / local outbreaks/ NTDs", "lunch break", "RSE session", "Dinner"),
-  Speakers = c("", "", "", "", "", "", "", "")
+  Activity = c("Designing outbreak analytics course", "Designing outbreak analytics course", "Coffee break", "Lessons learnt", "Gaps", "Lunch", "RF & RSE sessions", "Dinner"),
+  Speakers = c("Group discussion", "Group discussion", "", "Group discussion", "Group discussion", "", "James and Degoot", "")
 )
 
 day_4_agenda |>
@@ -102,25 +149,5 @@ day_4_agenda |>
   kableExtra::row_spec(c(3, 6, 8), color = 'white', background = 'black')
 ```
 
-### Friday
 
-**Review** - Describe the day
 
-Objectives:
-
-Expected outcomes:
-
-Moderator:
-
-```{r eval=TRUE, echo = FALSE}
-day_5_agenda <- data.frame(
-  Time = c("09:00-10:00", "10:00-11:00", "11:00-11:30", "11:30-12:30", "12:30-13:00", "13:00-15:00", "15:00-17:00", "19:00-21:00"),
-  Activity = c("Tools for surveillance", "Tools for surveillance", "coffee break", "Lessons learnt/Gaps/needs", "Lessons learnt/Gaps/needs", "lunch break", "RSE session", "Dinner"),
-  Speakers = c("", "", "", "", "", "", "", "")
-)
-
-day_5_agenda |>
-  kableExtra::kbl() |>
-  kableExtra::kable_paper("striped", font_size = 18, full_width = TRUE) |>
-  kableExtra::row_spec(c(3, 6, 8), color = 'white', background = 'black')
-```

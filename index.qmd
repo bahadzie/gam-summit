@@ -15,7 +15,7 @@ Organizing committees from the Epiverse team have developed the summit's program
 
 ::: columns
 ::: {.column width="60%"}
-Our second summit was organized in **Bogota, Colombia**, between the 26th and 29th of June 2023. The participants were given the opportunity to bring their thoughts on the following topics:
+The second Epiverse-TRACE summit was held in **Bogota, Colombia**, between the 26th and 29th of June 2023. The participants were given the opportunity to bring their thoughts on the following topics:
 
 1.  *Collaborative Software Development*,
 2.  *Building a community of users*,
