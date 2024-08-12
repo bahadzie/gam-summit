@@ -19,7 +19,7 @@ jobs:
 
       - name: Install required R packages
         run: |
-          install.packages(c("knitr", "rmarkdown"))
+          install.packages(c("knitr", "rmarkdown"), lib = tempdir())
         shell: Rscript {0}
 
       - name: Render and Publish
